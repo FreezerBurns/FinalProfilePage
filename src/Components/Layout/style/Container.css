@@ -1,0 +1,8 @@
+.container {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 1000px;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.25em;
+  }
